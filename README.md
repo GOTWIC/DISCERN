@@ -49,8 +49,17 @@ While this code uses [DETIC](https://github.com/facebookresearch/Detic) and [DET
    Open a terminal inside the repository and create the conda environment:
 
    ```bash
-   conda env create -f environment.yml   
+   conda env create -f environment.yml
+
+4. **Activate Environment**
+
+   ```bash
+   conda activate nyx   
 
 ## Usage
 
+In Progress...
+
 ## Contact
+
+If you have any questions or run into any issues while trying to install or run the code, please email me at sr6474@nyu.edu
