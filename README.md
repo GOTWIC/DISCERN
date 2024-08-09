@@ -42,7 +42,14 @@ While this code uses [DETIC](https://github.com/facebookresearch/Detic) and [DET
 
 2. **Install Additional Files**
 
-Download these [additional files](https://drive.google.com/drive/folders/13yLKYwc9azDdcdX-PfnNfCrQI8Z3Eopl?usp=sharing) and place the folders inside the repository.
+   Download these [additional files](https://drive.google.com/drive/folders/13yLKYwc9azDdcdX-PfnNfCrQI8Z3Eopl?usp=sharing) and place the folders inside the repository. The path of these folders should be ```DISCERN/csk_kbs``` and ```DISCERN/yolo```.
+
+3. **Create Environment**
+
+   Open a terminal inside the repository and create the conda environment:
+
+   ```bash
+   conda env create -f environment.yml   
 
 ## Usage
 
