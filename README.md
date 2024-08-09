@@ -9,11 +9,8 @@
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -23,17 +20,6 @@
 ### Project Name
 
 A brief description of what your project does and its purpose. Explain why you created this project and what problems it solves.
-
----
-
-## Features
-
-- **Feature 1**: Brief explanation.
-- **Feature 2**: Brief explanation.
-- **Feature 3**: Brief explanation.
-- **Feature 4**: Brief explanation.
-
-Add more features as necessary.
 
 ---
 
@@ -49,3 +35,8 @@ Add more features as necessary.
 
    ```bash
    git clone https://github.com/yourusername/projectname.git
+
+
+## Usage
+
+## Contact
