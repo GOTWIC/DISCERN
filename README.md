@@ -39,26 +39,48 @@ While this code uses [DETIC](https://github.com/facebookresearch/Detic) and [DET
 
    ```bash
    git clone https://github.com/GOTWIC/DISCERN.git
+   ```
 
-2. **Install Additional Files**
+   Make sure to clone the repository to a non-restricted location. 
+
+3. **Install Additional Files**
 
    Download these [additional files](https://drive.google.com/drive/folders/13yLKYwc9azDdcdX-PfnNfCrQI8Z3Eopl?usp=sharing) and place the folders inside the repository. The path of these folders should be ```DISCERN/csk_kbs``` and ```DISCERN/yolo```.
 
-3. **Create Environment**
+4. **Create Environment**
 
    Open a terminal inside the repository and create the conda environment:
 
    ```bash
    conda env create -f environment.yml
+   ```
 
-4. **Activate Environment**
+5. **Activate Environment**
 
    ```bash
-   conda activate nyx   
+   conda activate nyx
+   ```
 
 ## Usage
 
-In Progress...
+### Code Execution
+
+To run the code in standalone mode (without the simulation), simply run the main Python file:
+
+   ```bash
+   python scripts/_0_main.py
+   ```
+This will run the code on a test image inside ```image/input/```, and show the output of our algorithm.
+
+To run the code in simulation mode, run the simulation Python file:
+
+   ```bash
+   python scripts/run_sim.py
+   ```
+
+Then, start the Unity simulation. The .exe file is under ```build/```.
+
+Once the simulation starts, enter the installation directory in the text field. For example, if the ```DISCERN``` folder is under ```C:\Users\nyx\DISCERN```, then enter ```C:\Users\nyx``` as the path name.
 
 ## Contact
 
