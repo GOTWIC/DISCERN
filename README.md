@@ -1,4 +1,4 @@
-# DISCERN - Efficient Task Organization with Commonsense Knowledge for Human-Robot Collaborative Tasks
+# DISCERN - Detection Image System with Commonsense Efficient Ranking Network
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
@@ -17,9 +17,9 @@
 
 ## About
 
-### Project Name
+### DISCERN
 
-A brief description of what your project does and its purpose. Explain why you created this project and what problems it solves.
+In Progress...
 
 ---
 
