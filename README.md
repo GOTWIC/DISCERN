@@ -19,7 +19,7 @@
 
 ### DISCERN
 
-In Progress...
+The Simulation Build is currently too large for GitHub. Please contact me at sr6474@nyu.edu if you would like access to the simulation while I figure out a way to include it here.
 
 ---
 
