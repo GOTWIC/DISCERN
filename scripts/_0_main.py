@@ -48,7 +48,7 @@ def add_image_size(obj_dict, image_path):
 def main(image_path, vlm_enabled=True, show_output=True, accelerated=False):   
      
     # yolov5
-    obj_dict = detect_objects(image_path)   
+    #obj_dict = detect_objects(image_path)   
     
     # Detr
     #obj_dict = detect_objects_detr(image_path) 
@@ -57,7 +57,7 @@ def main(image_path, vlm_enabled=True, show_output=True, accelerated=False):
     #obj_dict = detect_objects_world(image_path) 
     
     # detic
-    #obj_dict = detect_objects_detic(image_path)
+    obj_dict = detect_objects_detic(image_path)
     
     obj_dict = add_image_size(obj_dict, image_path)
     
