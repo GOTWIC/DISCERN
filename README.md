@@ -19,7 +19,7 @@
 
 ### DISCERN
 
-The animation/demo for this project can be found [here]([https://docs.google.com/presentation/d/1VjcyMtyYCdvppdaQsjj4twoAXRf-JK4UjzlPKjxmXzY/edit?usp=sharing](https://onedrive.live.com/personal/0b476ced4b76a9c1/_layouts/15/Doc.aspx?sourcedoc=%7B089a9270-0f03-498f-aee2-fa42f956ffda%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8wYjQ3NmNlZDRiNzZhOWMxL0VYQ1NtZ2dERDQ5SnJ1TDZRdmxXXzlvQmttd0tZTlh6U1JzVlhzRjBfcVBRaGc_ZT01Wldvcnk&slrid=9cdadda1-60b7-1000-241f-6c467c5c9636&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8wYjQ3NmNlZDRiNzZhOWMxL0VYQ1NtZ2dERDQ5SnJ1TDZRdmxXXzlvQmttd0tZTlh6U1JzVlhzRjBfcVBRaGc_cnRpbWU9b2NtNnVLSXUza2c&CID=c6ec58c1-eb41-445d-a9bc-b701fe1a335e&_SRM=0%3AG%3A70&file=DISCERN%20Animation.pptx))
+The animation/demo for this project can be found [here]([https://onedrive.live.com/personal/0b476ced4b76a9c1/_layouts/15/Doc.aspx?sourcedoc=%7B089a9270-0f03-498f-aee2-fa42f956ffda%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8wYjQ3NmNlZDRiNzZhOWMxL0VYQ1NtZ2dERDQ5SnJ1TDZRdmxXXzlvQmttd0tZTlh6U1JzVlhzRjBfcVBRaGc_ZT01Wldvcnk&slrid=9cdadda1-60b7-1000-241f-6c467c5c9636&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8wYjQ3NmNlZDRiNzZhOWMxL0VYQ1NtZ2dERDQ5SnJ1TDZRdmxXXzlvQmttd0tZTlh6U1JzVlhzRjBfcVBRaGc_cnRpbWU9b2NtNnVLSXUza2c&CID=c6ec58c1-eb41-445d-a9bc-b701fe1a335e&_SRM=0%3AG%3A70&file=DISCERN%20Animation.pptx])
 
 The Simulation Build is currently too large for GitHub. Please contact me at swag@nyu.edu if you would like access to the simulation while I figure out a way to include it here.
 
